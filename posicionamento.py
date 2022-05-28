@@ -30,8 +30,6 @@ posicionamento_partidos = {
     "PATRIOTA": "Direita",
     "UNIÃO": "Direita",
 
-
-
     "S.PART.": "Sem partido",
     
     "PPL": "Esquerda",
